@@ -1,5 +1,6 @@
 {
-  "spider": "./JAR/fan.txt;md5;5187BB3BC6EBA66ECB3785ABB0D21431",
+  //"spider": "./JAR/fan.txt;md5;5187BB3BC6EBA66ECB3785ABB0D21431",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739499246969/0214.jar;md5;fcb8e9c523e551337ad1260d1b77c7ae",
   "wallpaper": "https://gh.llkk.cc/https://raw.githubusercontent.com/visitor176/MjApi/main/TVBox/pic/cat-bg.jpg",
   "logo": "https://gh.llkk.cc/https://raw.githubusercontent.com/visitor176/MjApi/main/TVBox/pic/anya-anya-forger.gif",
   "lives": [
@@ -90,8 +91,8 @@
       "playerType": 2,
       "changeable": 0,
       "api": "csp_Wwys",
-      "ext": "https://www.wwgz.cn/",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739499246969/0214.jar;md5;fcb8e9c523e551337ad1260d1b77c7ae"
+      "ext": "https://www.wwgz.cn/"
+      // "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739499246969/0214.jar;md5;fcb8e9c523e551337ad1260d1b77c7ae"
     },
     {
       "key": "瓜子",
@@ -99,11 +100,11 @@
       "type": 3,
       "api": "csp_Gz360",
       "searchable": 1,
-      "quickSearch": 0,
+      "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "changeable": 0,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739499246969/0214.jar;md5;fcb8e9c523e551337ad1260d1b77c7ae"
+      "changeable": 0
+      // "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739499246969/0214.jar;md5;fcb8e9c523e551337ad1260d1b77c7ae"
     },
     {
       "key": "LIB",
