@@ -1,0 +1,28 @@
+{
+  "plugins": [
+    {
+      "name": "网易云音乐",
+      "url": "https://mf.ikunshare.com/wy/index.js"
+    },
+    {
+      "name": "网易云电台",
+      "url": "https://fastly.jsdelivr.net/gh/GuGuMur/MusicFreePlugin-NeteaseRadio@master/dist/plugin.js"
+    },
+    {
+      "name": "QQ音乐",
+      "url": "https://mf.ikunshare.com/qq/index.js"
+    },
+    {
+      "name": "酷狗音乐",
+      "url": "https://mf.ikunshare.com/kg/index.js"
+    },
+    {
+      "name": "酷我音乐",
+      "url": "https://mf.ikunshare.com/kw/index.js"
+    },
+    {
+      "name": "bilibili",
+      "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/bilibili/index.js"
+    }
+  ]
+}
