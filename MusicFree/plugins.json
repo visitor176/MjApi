@@ -23,6 +23,14 @@
     {
       "name": "bilibili",
       "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/bilibili/index.js"
+    },
+    {
+      "name": "猫耳FM",
+      "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/maoerfm/index.js"
+    },
+    {
+      "name": "好听音乐",
+      "url": "https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/htqyy.js"
     }
   ]
 }
