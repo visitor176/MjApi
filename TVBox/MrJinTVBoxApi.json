@@ -55,7 +55,7 @@
     },
     {
       "key": "文采",
-      "name": "💮文采┃影视",
+      "name": "文采┃影视",
       "type": 3,
       "api": "csp_Jpys",
       "playerType": 2,
@@ -65,7 +65,7 @@
     },
     {
       "key": "苹果",
-      "name": "🍎苹果┃影视",
+      "name": "苹果┃影视",
       "type": 3,
       "api": "csp_LiteApple",
       "searchable": 1,
@@ -74,7 +74,7 @@
     },
     {
       "key": "厂长",
-      "name": "📔厂长┃影视",
+      "name": "厂长┃影视",
       "type": 3,
       "api": "csp_NewCz",
       "playerType": 2,
@@ -85,7 +85,7 @@
     },
     {
       "key": "csp_Wwys",
-      "name": "👨农民┃影视",
+      "name": "农民┃影视",
       "type": 3,
       "playerType": 2,
       "changeable": 0,
@@ -95,7 +95,7 @@
     },
     {
       "key": "瓜子",
-      "name": "🍉瓜子┃影视",
+      "name": "瓜子┃影视",
       "type": 3,
       "api": "csp_Gz360",
       "searchable": 1,
@@ -107,7 +107,7 @@
     },
     {
       "key": "LIB",
-      "name": "🌟Libvio┃搜索",
+      "name": "Libvio┃搜索",
       "type": 3,
       "api": "csp_Libvio",
       "searchable": 1,
@@ -117,7 +117,7 @@
     },
     {
       "key": "夸克",
-      "name": "⏏️夸克盘┃资源",
+      "name": "夸克盘┃资源",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
@@ -131,7 +131,7 @@
     },
     {
       "key": "PanSearch",
-      "name": "⏏️阿里盘┃资源",
+      "name": "阿里盘┃资源",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
@@ -141,7 +141,7 @@
     },
     {
       "key": "csp_xiaomi",
-      "name": "⏏️UC盘┃资源",
+      "name": "UC盘┃资源",
       "type": 3,
       "api": "csp_Duopan",
       "changeable": 0,
